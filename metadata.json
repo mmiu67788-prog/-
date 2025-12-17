@@ -1,0 +1,5 @@
+{
+  "name": "Arduino AI Assistant",
+  "description": "智能 Arduino 代码生成助手。选择硬件组件，描述交互逻辑，一键生成 C++ 代码和接线指南。",
+  "requestFramePermissions": []
+}
